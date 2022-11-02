@@ -1,6 +1,9 @@
 const Header = (props) =>{
     return(
-        <p> Hola soy el header </p>
+       <header>
+        <h1>Ejemplos en React</h1>
+        
+        </header>
     )
     }
 
