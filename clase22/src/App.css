@@ -32,7 +32,8 @@ nav ul li {
 
 }
 nav ul li a{
-color:burlywood;
+color:rgb(100, 59, 5);
+font-weight: 600;
 text-decoration: none;
 padding: 3px 6px;
 display: block;

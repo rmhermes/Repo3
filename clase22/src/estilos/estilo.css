@@ -1,0 +1,29 @@
+h1{
+    font-style: italic;
+    text-align: center;
+}
+    .buttonGroup{
+        padding:20px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+       column-gap: 30px; 
+    }
+
+.success{
+    padding: 40px;
+    background-color: lightgreen;
+    border-radius: 20px;        
+    font-weight: 600;
+}
+.error{
+    padding: 40px;
+    background-color: lightcoral;   
+    border-radius: 20px;    
+    font-weight: 600;
+}
+
+.mapa{
+    display: flex;
+    justify-content: center;
+}
